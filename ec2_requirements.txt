@@ -187,7 +187,7 @@ pytest-openfiles==0.3.1
 pytest-remotedata==0.3.1
 python-crfsuite==0.9.6
 python-dateutil==2.7.5
-python-engineio==3.2.3
+python-engineio==3.8.2.post1
 python-socketio==3.1.1
 python-telegram-bot==11.1.0
 pytz==2018.9
